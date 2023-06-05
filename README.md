@@ -48,9 +48,6 @@
 
 ### 📬 &nbsp;Get in Touch!
 <p align="center">
-<a href="https://www.linkedin.com/in/lucas-bordini/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Lucas%20Bordini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:lucas.bordini@hotmail.com" target="blank">
    <img align="center" src="https://img.shields.io/badge/lucas.bordini@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/lucasbordini" target="blank">
