@@ -5,9 +5,8 @@
 
 - Passionate about mastering new technologies.
 - Bachelor's degree in Computer Engineering.
-- I am focused on expanding my understanding of Artificial Intelligence, Game Development and Augmented Reality.
+- I am focused on expanding my understanding of Artificial Intelligence and Augmented/Virtual Reality.
 - Eager to explore a wide variety of code architectures and design patterns.
-- Open to freelance opportunities.
 <hr>
 <br>
 
